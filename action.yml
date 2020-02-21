@@ -1,9 +1,9 @@
-name: 'Publish Docker'
+name: 'Docker Actions'
 author: '@hericlesme'
 branding:
   icon: 'package'
   color: 'gray-dark'
-description: 'Docker actions'
+description: 'GitHub Actions for Docker actions'
 inputs:
   action:
     description: 'The docker command you want to execute'
